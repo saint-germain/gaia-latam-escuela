@@ -4,3 +4,4 @@ pyESASky
 matplotlib
 numpy
 scipy
+pandas
